@@ -1,1 +1,1 @@
-Git is a distributed software.
+Git is a distribute software append GPL.
