@@ -1,6 +1,1 @@
-1:Git 的提交请求
-Git is a distribute software append GP.
-Git has a mutable index called stage
-Git tracks changes
-Git tracks changes of files
-Git is wc
+关于Spring Boot的相关实例小Demo，后续持续更新，包括SpringCloud的各种整合实例案例
